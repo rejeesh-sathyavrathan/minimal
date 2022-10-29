@@ -1,8 +1,6 @@
 title: Rejeesh S
-logo: /assets/img/logo1.png
-description: 
-*Student*, *Software developer*, ...
-
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
