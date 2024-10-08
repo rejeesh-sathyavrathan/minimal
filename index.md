@@ -1,7 +1,7 @@
 # Projects
 ---
 
-## Machine learning
+## Architect
 
 ### Fraud Detection
 
