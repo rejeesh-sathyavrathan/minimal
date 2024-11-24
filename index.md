@@ -31,7 +31,26 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
     - Reused existing embedded development frameworks to integrate new hardware instruments into the software, enhancing the device's capabilities and performance.
     - Integrated the embedded machines with hardware successfully.
 
-## Hematology Analyzer
+**Staff Engineer | Beckman Coluter Hematology** [July 2018 – July 2023]
+ - Refactored Legacy Code: Transformed legacy source code into a modular and testable format, significantly improving maintainability and scalability.
+
+ - Decoupled Dependencies: Successfully decoupled MFC (Microsoft Foundation Class) dependencies from business logic, enhancing code independence and flexibility.
+
+ - Implemented Unit Testing: Added comprehensive unit tests for the business logic module, leading to substantial improvements in product quality and delivery timelines.
+
+ - Training and Mentorship: Trained team members on best practices for refactoring and unit testing, and ensured adherence to these practices by implementing relevant metrics such as unit test coverage and defect rates from verification.
+
+ - Quality and Delivery Improvement: The introduction of unit tests and adherence to refactoring best practices resulted in improved product quality and more efficient delivery processes.
+
+ - Modernized Development Tools: Assisted the team in modernizing the legacy application by upgrading to the latest development and production tools, including Visual Studio, FastObjects database, and SQL Server, setting the platform for faster development times and improved efficiency.
+
+ - Team Building and Feasibility Studies: Built and led a team of junior engineers to conduct feasibility studies for the next generation of instruments. Created multiple proofs of concept to evaluate and select the optimal technologies for front-end, business logic, and embedded layers.
+
+ - Investigations and Training: Conducted multiple investigations and training sessions for the team on Clean Architecture concepts, Behavior Driven Development (BDD), Microservices, Docker, Automation and Unit Testing, and UI Automation Testing, enhancing the team's technical proficiency and project efficiency.
+
+ - Innovative Embedded Solutions: Created an innovative solution utilizing modern technologies to support fast and easy development of the embedded layer, ensuring better performance and accelerated development by leveraging contemporary tools and methodologies. This solution received numerous accolades, including a prestigious global innovation award.
+
+ - Leadership in Embedded Module Implementation: Led the team to implement the embedded module with a focus on modularity, enabling the system team to easily configure the embedded modules as needed. Collaborated closely with the firmware team to ensure smooth integration of embedded and firmware modules. The team successfully completed all work ahead of schedule, ensuring smooth and timely delivery.
 
 
 ## Architect
