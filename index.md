@@ -1,6 +1,17 @@
+
 Professional Experience
 ---
-**Staff Engineer | Beckman Coluter Urinalysis** [July 2023 – July 2024]
+**Architect | Beckman Coluter Hematology** [August 2024 – Till Date]
+
+Beckman Coulter's mid-volume hematology analyzers are designed to provide high-quality testing for medium-sized hospitals and mid-volume laboratories. These instruments are capabale of delivering high quality complete blood count (CBC) and full 5-part differential results with minimal slide reviews. These analyzers help laboratories improve productivity, save time, and enhance patient care by providing reliable and efficient hematology testing solutions.
+
+As a Software Architect for hematology next generation analyzer, played a pivotal role in designing solutions, guiding and mentoring cross-functional teams to deliver high-quality software solutions.
+
+**Role**
+ - Embedded:
+   - Designed, developed and integrated the instrument power on / off workflow.
+
+**Staff Engineer | Beckman Coluter Urinalysis** [August 2023 – July 2024]
 
 The Beckman Coulter Urinalysis devices are widely utilized in clinical laboratories for automated urinalysis. These devices play a crucial role in enhancing the efficiency and reliability of urine analysis, thereby aiding in the diagnosis and monitoring of renal and urinary tract conditions.
 
@@ -54,10 +65,5 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
    - Innovative Embedded Solutions: Created an innovative solution utilizing modern technologies to support fast and easy development of the embedded layer, ensuring better performance and accelerated development by leveraging contemporary tools and methodologies. This solution received numerous accolades, including a prestigious global innovation award.
    - Leadership in Embedded Module Implementation: Led the team to implement the embedded module with a focus on modularity, enabling the system team to easily configure the embedded modules as needed. Collaborated closely with the firmware team to ensure smooth integration of embedded and firmware modules. The team successfully completed all work ahead of schedule, ensuring smooth and timely delivery.
 
-## Architect
-
-### Fraud Detection
-
-Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorised financial activity. This may include fraudulent credit card transactions, identity theft, cyber hacking, insurance scams and more. 
-
-<center><img src="fraud_detection.jpg"/></center>
+Educational excellence
+---
