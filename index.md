@@ -68,23 +68,27 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
 ---
 ### **Software Design Engineer | Siemens Healthineers** [November 2016 – June 2018]
 
-#### **Siemens Ultrasound Scanner** 
-![image](https://github.com/user-attachments/assets/6383faad-5767-44b1-84cb-43a7ffc02331)
+#### Projects
+<details>
+ <summary>Ultrasound Scanner</summary>
+ 
+ ![image](https://github.com/user-attachments/assets/6383faad-5767-44b1-84cb-43a7ffc02331)
 
-[ACUSON Sequoia](https://www.siemens-healthineers.com/en-in/ultrasound/new-era-ultrasound/acuson-sequoia) is an advanced diagnostic tool that integrates cutting-edge technology and AI-powered applications to streamline diagnostic processes. This system is designed to cater to patient-specific needs, ensuring accuracy and efficiency in various clinical settings such as Radiology, OB/GYN, Shared Service and beyond.
+ [ACUSON Sequoia](https://www.siemens-healthineers.com/en-in/ultrasound/new-era-ultrasound/acuson-sequoia) is an advanced diagnostic tool that integrates cutting-edge technology and AI-powered applications to streamline diagnostic processes. This system is designed to cater to patient-specific needs, ensuring accuracy and efficiency in various clinical settings such as Radiology, OB/GYN, Shared Service and beyond.
 
-Calculation module provides multiple measurement tools and calculation algorithms used by ultrasound scanner for measurements. As a software design engineer with calculations module, I was responsible for accelarating the software development so that the product can hit the market on time.
+ Calculation module provides multiple measurement tools and calculation algorithms used by ultrasound scanner for measurements. As a software design engineer with calculations module, I was responsible for accelarating the software development so that the product can hit the market on time.
 
-**Role**
- - Module Development: 
-   - Designed and developed new measurement tools for the ultrasound system.
-   - Developed testing tools to ensure the accuracy and usability of the tools before delivering to other teams.
- - Efficiency & Quality Improvements: 
-   - Greatly reduced development time and effort by refactoring and reusing the legacy calculation alogorithms in the new product. It involved exposing the required API's from legacy and adapting it into the C# modules using interoperability.
-   - Ensured the alogorithm quality by introducing unit tests around legacy modules and ensured it holds true after refactoring and integrating into new module.
-   - Integrated third-party algorithms to enable automatic measurement detection.
- - Team Building:
-   - Provided training in C++, refactoring, and unit testing, boosting team productivity and technical proficiency.
+ **Role**
+  - Module Development: 
+    - Designed and developed new measurement tools for the ultrasound system.
+    - Developed testing tools to ensure the accuracy and usability of the tools before delivering to other teams.
+  - Efficiency & Quality Improvements: 
+    - Greatly reduced development time and effort by refactoring and reusing the legacy calculation alogorithms in the new product. It involved exposing the required API's from legacy and adapting it into the C# modules using interoperability.
+    - Ensured the alogorithm quality by introducing unit tests around legacy modules and ensured it holds true after refactoring and integrating into new module.
+    - Integrated third-party algorithms to enable automatic measurement detection.
+  - Team Building:
+    - Provided training in C++, refactoring, and unit testing, boosting team productivity and technical proficiency.
+ </details>
 
 Educational excellence
 ---
