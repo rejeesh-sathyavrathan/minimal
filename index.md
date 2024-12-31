@@ -70,7 +70,7 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
 
 #### Projects
 <details>
- <summary>Ultrasound Scanner</summary>
+ <summary>Siemens Ultrasound Scanner</summary>
  
  ![image](https://github.com/user-attachments/assets/6383faad-5767-44b1-84cb-43a7ffc02331)
 
@@ -89,6 +89,34 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
   - Team Building:
     - Provided training in C++, refactoring, and unit testing, boosting team productivity and technical proficiency.
  </details>
+
+---
+### **Senior Software Development Engineer in Test | McAfee Software** [October 2013 – October 2016]
+
+#### Projects
+<details>
+ <summary>McAfee Agent</summary>
+
+  ![image](https://github.com/user-attachments/assets/36dc3e6d-d1a2-4693-aac1-fed775476374)
+  
+  The **McAfee Agent** is a software component that facilitates the deployment, management, and updating of McAfee security products across a network. It ensures that all endpoints are protected with the latest security updates and configurations.
+- **Centralized Management**: Allows IT administrators to manage security policies and updates from a central console.
+- **Automated Updates**: Ensures that all endpoints receive the latest virus definitions and software updates automatically.
+- **Policy Enforcement**: Enforces security policies across the network to maintain compliance and protect against threats.
+- **Remote Monitoring**: Provides real-time monitoring and reporting of security status on all connected devices.
+
+ **Role**
+ 
+ Software Development Engineer in Test (SDET) role involves developing unit tests for new and legacy features, ensuring product quality by integrating tests into CI pipelines and maintaining automated tests. Creating unit tests for procedure oriented languagae like C requires additional efforts in building a solid framework that responses can be mocked. 
+  - Enhanced Product Quality Enhancement
+    - Developed comprehensive unit and integration tests for a security management product, significantly improving reliability and stability.
+    - Conducted static code analysis using Coverity, identifying and resolving critical issues to maintain high-quality code standards.
+    - Analyzed and fixed memory leaks utilizing WinDbg, enhancing application performance and stability.
+  - Continuous Integration
+    - Integrated unit tests into TeamCity CI server with Bullseye coverage reporting, ensuring robust and consistent testing practices.
+    - Successfully migrated unit tests to Linux, Mac, and Embedded Linux, ensuring wide compatibility and improving overall test coverage.
+ </details>
+
 
 Educational excellence
 ---
