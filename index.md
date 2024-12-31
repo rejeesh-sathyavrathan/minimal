@@ -117,6 +117,21 @@ As a Staff Engineer, I had the privilege of designing the next-generation softwa
     - Successfully migrated unit tests to Linux, Mac, and Embedded Linux, ensuring wide compatibility and improving overall test coverage.
  </details>
 
+---
+### **Senior Software Engineer | Mindteck India Ltd** [April 2008 – September 2013]
+Chromatography analyzers are sophisticated instruments used to separate, identify, and quantify components in complex mixtures.
+
+#### Projects
+<details>
+ <summary>Waters Sample Set Generator</summary>
+ Development of analytical methods is a complex process that involves screening a wide range of chromatographic parameters to generate desirable separations and robust methods. The Empower Sample Set Generator (SSG) Software automates the creation of chromatographic methods for a wide range of variables. The Empower method sets and instrument methods are automatically created and structured in the sample set method, according to the experimental design, as a ready-to-run injection sequence.
+ 
+ **Role**
+ Scope of this project is to design and a develop the sample set generator tool that integrates into the Waters Empower Cromatography Data System (CDS). Sample Set Generator tool is intended to auto generate the sample sets following the user configuration.
+ 
+  - Designed and developed the user interface using Windows Forms. 
+ </details>
+
 
 Educational excellence
 ---
