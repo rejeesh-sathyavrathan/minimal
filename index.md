@@ -132,6 +132,48 @@ Chromatography analyzers are sophisticated instruments used to separate, identif
   - Designed and developed the user interface using Windows Forms. 
  </details>
 
+--- **Temp**
+
+Professional Experience
+BECKMAN COLUTER [JULY 2018 – TILL DATE]
+Hematology Analyzer [Software Architect / Staff Engineer / Lead Engineer]
+The Beckman Coulter DxH Hematology Analyzer uses advanced technology to make blood testing faster and more accurate. It helps labs work more efficiently and save money, which leads to better patient care.
+•	Designed and developed a reusable instrument script framework for next gen product using .net core which reduced the systems team effort by 40%.
+•	Built team with different backgrounds and trained on the product, legacy and next gen technologies.
+•	Collaborated with Firmware and Electrical teams and designed the embedded layer for the product.
+•	Conducted multiple PoC to finalize user interface, backend service, communication protocols, embedded layers. This enabled the leadership to move forward with the project execution.
+•	Delivered multiple features in quick time to increase the legacy product footprint.
+•	Refactored and redesigned the legacy modules which improved the quality and reduced delivery time.
+Urine Analyzer [Staff Engineer]
+The Beckman Coulter Urinalysis devices are widely utilized in clinical laboratories for automated urinalysis. Designed the next-generation software for Beckman Coulter Urinalysis devices, extensively used in clinical laboratories for automated urine analysis. These devices enhance the efficiency and reliability of urine analysis, aiding in the diagnosis and monitoring of renal and urinary tract conditions.
+•	Finalized system architecture through comprehensive PoCs and technology evaluations.
+•	Collaborated with stakeholders to convert high-level requirements into actionable features.
+•	Facilitated seamless development cycles by building and managing the project backlog.
+•	Partnered with external teams to integrate existing or custom solutions into product.
+•	Formulated test strategies and demonstrated testing approaches.
+•	Trained team members on modules and architectures, improving overall efficiency.
+•	
+SIEMENS HEALTHINEERS [NOVEMBER 2016 –JUNE 2018]
+Ultrasound Scanner [Software Design Engineer]
+The ACUSON Sequoia is an advanced diagnostic tool that integrates cutting-edge technology and AI-powered applications to streamline diagnostic processes. This system is designed to cater to patient-specific needs, ensuring accuracy and efficiency in various clinical settings such as Radiology, OB/GYN, Shared Service and beyond. 
+•	Responsible for designing and developing the calculator module that’s used for measurements. 
+•	Reduced the development effort and improved the quality by refactoring the legacy calculation algorithms and adding automated tests.
+•	Integrated 3rd party algorithms to auto detect measurements.
+•	Trained team on C++, refactoring and unit testing that improved overall efficiency.
+MCAFEE SOFTWARE [OCTOBER 2013 – OCTOBER 2016]
+McAfee Agent [Senior Software Engineer in Test]
+The McAfee Agent is a software component that facilitates the deployment, management, and updating of McAfee security products across a network.
+•	Enhanced Product Quality: Developed comprehensive unit and integration tests for a security management product, significantly improving reliability and stability. Conducted static code analysis using Coverity, identifying and resolving critical issues, and analysed and fixed memory leaks with WinDbg to enhance performance.
+•	Continuous Integration: Integrated unit tests into TeamCity CI server with Bullseye coverage reporting, ensuring robust and consistent testing practices. Successfully migrated unit tests to Linux, Mac, and Embedded Linux, ensuring wide compatibility and improved test coverage.
+MINDTECK INDIA LTD [APRIL 2008 –SEPTEMBER 2013]
+Chromatography Device Integration [Module Lead / Senior Software Engineer / Software Engineer]
+Chromatography analyzers are sophisticated instruments used to separate, identify, and quantify components in complex mixtures. They are widely used in various fields such as pharmaceuticals, environmental testing, food and beverage analysis, and chemical research.
+•	Designed, and developed Sample Set Generator tool to automate the sample set generation process within the Waters Empower Chromatography Data System, significantly enhancing efficiency and reducing manual errors.
+•	Demonstrated strong design skills by utilizing the Managed Extensibility Framework (MEF) and Chain of Responsibility pattern, ensuring the system's scalability and seamless integration with future instruments.
+•	Designed, and developed instrument control software for Waters ACQUITY HPLC device and integrated into Waters Empower Chromatography Data System.
+•	Designed, and developed instrument control software for Agilent A7890 GC device and integrated into Thermo Fisher Chromatography Data System.
+
+---
 
 Educational excellence
 ---
